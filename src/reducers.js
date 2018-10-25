@@ -89,3 +89,5 @@ const rootReducer = combineReducers({
   postsBySubreddit,
   selectedSubreddit
 });
+
+export default rootReducer;
